@@ -12,11 +12,3 @@ The capabilities support by the client.js on the app included :
   - The UI will appear as inside the attachment sections and it can be removed and reactivate using the card button
 
 Presently, the custom power is accessible to all users. 
-
-Attachments :
-
-[custom powerup](https://e44ccs.deta.dev/public-file/powerup.jpg)
-
-[power up settings](https://e44ccs.deta.dev/public-file/button.jpg)
-
-[card button](https://e44ccs.deta.dev/public-file/settings.jpg)
