@@ -12,3 +12,8 @@ The capabilities support by the client.js on the app included :
   - The UI will appear as inside the attachment sections and it can be removed and reactivate using the card button
 
 Presently, the custom power is accessible to all users. 
+
+### Screen shoots
+- [powerup_icon](https://drive.google.com/file/d/1S3IPHkKkd1GfDC7Zc3lE9L57sFKD-G00/view?usp=sharing)
+- [settings](https://drive.google.com/file/d/1ug64s7JSwxGkMUd1-qsndYKBZdsNz2Ek/view?usp=sharing)
+- [card button](https://drive.google.com/file/d/1YDqBPcDRgidhXm6kEnC_U3VORgOBDHD_/view?usp=sharing)
