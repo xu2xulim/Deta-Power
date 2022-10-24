@@ -17,5 +17,4 @@ Presently, the custom power is accessible to all users.
 - [powerup_icon](https://drive.google.com/file/d/1S3IPHkKkd1GfDC7Zc3lE9L57sFKD-G00/view?usp=sharing)
 - [settings](https://drive.google.com/file/d/1ug64s7JSwxGkMUd1-qsndYKBZdsNz2Ek/view?usp=sharing)
 - [card button](https://drive.google.com/file/d/1YDqBPcDRgidhXm6kEnC_U3VORgOBDHD_/view?usp=sharing)
-- [attachment_section_1](https://drive.google.com/file/d/1d19TIP6kc7Eqj9a8_9A1rDZxrhKXVv1t/view?usp=sharing)
-- [attachment_section_2](https://drive.google.com/file/d/14ehixNj7uhiuYRMB_qsTNW5dIkbde5_e/view?usp=sharing)
+
