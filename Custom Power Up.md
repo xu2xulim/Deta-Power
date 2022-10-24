@@ -1,4 +1,4 @@
-The focus of this section is document some of features incorporated intot the custom power up node.js app and not on the construction of such an app. Trello support for building Power Up is available [here}(https://developer.atlassian.com/cloud/trello/guides/power-ups/your-first-power-up/)
+The focus of this section is document some of features incorporated intot the custom power up node.js app and not on the construction of such an app. Trello support for building Power Up is available [here](https://developer.atlassian.com/cloud/trello/guides/power-ups/your-first-power-up/)
 
 The capabilities support by the client.js on the app included :
 - Authorization status
@@ -14,8 +14,9 @@ The capabilities support by the client.js on the app included :
 Presently, the custom power is accessible to all users. 
 
 Attachments :
-![custom powerup](https://e44ccs.deta.dev/public-file/Screen Shot 2022-10-24 at 2.53.37 PM.jpg)
 
-![power up settings](https://e44ccs.deta.dev/public-file/Screen Shot 2022-10-24 at 2.53.44 PM.jpg)
+[custom powerup](https://e44ccs.deta.dev/public-file/powerup.jpg)
 
-![card button](https://e44ccs.deta.dev/public-file/Screen Shot 2022-10-24 at 2.53.11 PM.jpg)
+[power up settings](https://e44ccs.deta.dev/public-file/button.jpg)
+
+[card button](https://e44ccs.deta.dev/public-file/settings.jpg)
