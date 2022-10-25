@@ -4,7 +4,7 @@ This is to document a project in which a microservice is used as Trello custom P
 The specific use case used to illustrate this capability is to share a Trello Card with a non Trello Users.
 
 - [Background](https://github.com/xu2xulim/Deta-Power/blob/main/Background.md)
-- [Custom Power Up](https://github.com/xu2xulim/Deta-Power/blob/3202ec7873e953ac96eb3dbac5e4e8e350d3a83e/Custom%20Power%20Up.md)
-- [Card User Interface](https://github.com/xu2xulim/Deta-Power/blob/f81d127080eaa09d5d3628db300246305e4160d4/Card%20User%20Interface.md)
-- [Share A Card](https://github.com/xu2xulim/Deta-Power/blob/f81d127080eaa09d5d3628db300246305e4160d4/Share%20a%20card.md)
+- [Custom Power Up](https://github.com/xu2xulim/Deta-Power/blob/main/Custom%20Power%20Up.md)
+- [Card User Interface](https://github.com/xu2xulim/Deta-Power/blob/main/Card%20User%20Interface.md)
+- [Share A Card](https://github.com/xu2xulim/Deta-Power/blob/main/Share%20a%20card.md)
 
