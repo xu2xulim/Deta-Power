@@ -3,8 +3,9 @@ The focus of this section is document some of features incorporated intot the cu
 The capabilities support by the client.js on the app included :
 - Authorization status
 - Show authorization
-- Show settings
+- Board Buttons
   - this allows the admin to set the url for the webapp to provide the UI in the attachment sections
+  - this in used in lieu of "Show Settings" so that only the admin can set the webapp to use for this board
   - this is maintained at board level as a shared setting
 - Card buttons
   - this is to activate the UI for the application (in the case it will be "Share a card")
