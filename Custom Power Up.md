@@ -10,7 +10,7 @@ The capabilities support by the client.js on the app included :
 - Card buttons
   - this is to activate the UI for the application (in the case it will be "Share a card")
 - Attachment sections
-  - The UI will appear as inside the attachment sections and it can be removed and reactivate using the card button
+  - The UI will appear inside the attachment sections and it can be removed and reactivate using the card button
 
 Presently, the custom power is accessible to all users. 
 
