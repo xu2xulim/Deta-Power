@@ -7,4 +7,4 @@ The specific use case used to illustrate this capability is to share a Trello Ca
 - [Custom Power Up](https://github.com/xu2xulim/Deta-Power/blob/main/Custom%20Power%20Up.md)
 - [Card User Interface](https://github.com/xu2xulim/Deta-Power/blob/main/Card%20User%20Interface.md)
 - [Share A Card](https://github.com/xu2xulim/Deta-Power/blob/main/Share%20a%20card.md)
-
+- [Other examples](https://github.com/xu2xulim/Deta-Power/blob/main/Other%20examples.md)
